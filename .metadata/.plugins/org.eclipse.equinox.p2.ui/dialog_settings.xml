@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.UninstallWizard.WizardSettings">
+		<item value="792" key="DIALOG_WIDTH"/>
+		<item value="66" key="DIALOG_Y_ORIGIN"/>
+		<item value="705" key="DIALOG_HEIGHT"/>
+		<item value="455" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+	</section>
+</section>

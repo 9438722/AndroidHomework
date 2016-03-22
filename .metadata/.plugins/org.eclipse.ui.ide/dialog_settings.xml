@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\cyc\Desktop\Android\20160322\AndroidTest8Cyc"/>
+			<item value="C:\Users\cyc\workspace\AndroidTest7Cyc"/>
+			<item value="C:\Users\cyc\workspace\AndroidTest6Cyc"/>
+			<item value="C:\Users\cyc\workspace\AndroidTest5Cyc"/>
+			<item value="C:\Users\cyc\workspace\AndroidTest4Cyc"/>
+			<item value="C:\Users\cyc\workspace\AndroidTest3Cyc"/>
+			<item value="C:\Users\cyc\workspace\AndroidTestCyc1"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
